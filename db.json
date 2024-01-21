@@ -1,0 +1,68 @@
+{
+  "todos": [
+    {
+      "id": "11",
+      "title": "stage",
+      "date": "2024-01-25",
+      "description": "flgrjhndlkregnddfgsddfbfdfq",
+      "done": false
+    },
+    {
+      "id": "12",
+      "title": "stage pfe ",
+      "date": "2024-01-25",
+      "description": "rkgfskhfkfsf",
+      "done": false
+    },
+    {
+      "id": "10",
+      "title": "depot",
+      "date": "2024-01-22",
+      "description": "ghjhgrezerhjhgfez",
+      "done": false
+    },
+    {
+      "id": "0",
+      "title": "depot",
+      "date": "2024-01-20",
+      "description": "rtjkjhgfqshj,ngfdsdfgh,",
+      "done": false
+    },
+    {
+      "id": "7",
+      "title": "IT",
+      "date": "2023-11-16",
+      "description": "Send an e-mail to update the IT team",
+      "done": false
+    },
+    {
+      "id": "2",
+      "title": "Designers",
+      "date": "2024-11-17",
+      "description": "Call the design agency to finalize the models",
+      "done": false
+    },
+    {
+      "id": "3",
+      "title": "Recruiters",
+      "date": "2024-11-20",
+      "description": "Contact recruiters about the new position to be filled",
+      "done": false
+    },
+    {
+      "id": "4",
+      "title": "Meeting",
+      "date": "2024-11-21",
+      "description": "Meeting with the engineering team",
+      "done": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "khalil",
+      "password": "khalil",
+      "token": "ffo33dde"
+    }
+  ]
+}
